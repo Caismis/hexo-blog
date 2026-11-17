@@ -1,6 +1,6 @@
 ---
 title: Geosite & Geoip更新
-cover: https://raw.githubusercontent.com/Caismis/blog_img/main/images/lwrc45_2.png
+cover: /images/lwrc45_2.webp
 date: 2024-01-15 12:27:56
 tags: 
 - 网络

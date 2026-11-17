@@ -1,7 +1,7 @@
 ---
 title: UV展开中的奇怪问题
 date: 2024-01-18 14:34:35
-cover: https://raw.githubusercontent.com/Caismis/blog_img/main/images/2024-01-17231143.png
+cover: /images/2024-01-17231143.webp
 tags: 
 - Blender
 - 硬表面

@@ -1,7 +1,7 @@
 ---
 title: Zen UV简易使用
 date: 2024-01-20 14:24:07
-cover: https://raw.githubusercontent.com/Caismis/blog_img/main/images/zenuv_post.png
+cover: /images/zenuv_post.webp
 tags: 
 - Blender
 - UV
@@ -26,7 +26,7 @@ categories: Blender
 
 <img src="https://raw.githubusercontent.com/Caismis/blog_img/main/images/zenuv_trans.png" alt='"Quadrify"' style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/Caismis/blog_img/main/images/zenuv_quad.png" alt="实际效果" style="zoom: 33%;" />
+<img src="/images/zenuv_quad.webp" alt="实际效果" style="zoom: 33%;" />
 
 - UV打包
 
