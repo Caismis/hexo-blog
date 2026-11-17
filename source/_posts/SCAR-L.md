@@ -10,7 +10,7 @@ categories: Blender
 ---
 过年闲着，建了个之前一直想建的SCAR。
 
-*<!--more-->*
+<!-- more -->
 ![](https://raw.githubusercontent.com/Caismis/blog_img/main/images/2024-02-11%20113548.png)
 
 ![](https://raw.githubusercontent.com/Caismis/blog_img/main/images/1.webp)

@@ -9,7 +9,7 @@ categories: 其他
 ---
 免费的ChatGPT 3.5用着实在是差强人意，但是奈何ChatGPT Plus价格高达20刀，只好折中一下，选择折腾Copilot。
 
-*<!--more-->*
+<!-- more -->
 
 ## 原料准备
 

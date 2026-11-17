@@ -10,7 +10,7 @@ categories: Blender
 ---
 继续上次出现奇怪UV问题之后，尝试使用了Zen UV，发现这个插件真是好用。
 
-*<!--more-->*
+<!-- more -->
 
 - 模型拆解阶段
 
